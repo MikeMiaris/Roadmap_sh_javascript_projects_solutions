@@ -1,6 +1,6 @@
 # Number Checker
 
-A simple JavaScript project from the [roadmap.sh Number Checker challenge](https://roadmap.sh/projects/js-number-checker).
+A simple JavaScript project from the https://roadmap.sh/projects/js-number-checker
 
 ## About the Project
 
