@@ -8,5 +8,7 @@ Grade Report Generator - https://roadmap.sh/projects/js-grade-report-generator
 
 Task List Utilities - https://roadmap.sh/projects/js-task-list-utilities
 
-Expence Summary - https://roadmap.sh/projects/js-expense-summary
+Expence Summary - https://roadmap.sh/projects/js-expense-summar
+
+Product Search And Filter - https://roadmap.sh/projects/js-product-search-and-filter
 
